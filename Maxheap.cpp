@@ -213,7 +213,7 @@ int main()
                   cout<<obj.height()<<endl;
                   break;
             case 7:
-                 cout<<"Print Heap Array : "<<endl;
+                 cout<<"Print Heap Array : ";
                  obj.printArray();
                  cout<<endl;
                  break;
